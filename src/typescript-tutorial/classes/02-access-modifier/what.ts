@@ -13,7 +13,7 @@ export const what=()=>{
 
         The TypeScript compiler will issue an error if you attempt to access the protected properties or methods from anywhere else
     EXAMPLE
-        
+        You can , in typescript, do all the things at the constructor function . For example , initialiazation .
 
     `
 }
