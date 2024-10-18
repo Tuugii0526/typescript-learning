@@ -21,6 +21,11 @@ export const what=()=>{
             let enteredText=(el as HTMLInputElement).value
             
     TYPE ASSERTION USING THE <> OPERATOR 
+        Besides the as keyword , you can use the <> operator to perform a type assertion .
+        let a:typeA;
+        let b=<typeB>a
 
+    Type assertion allows you to assign a new type to a value.
+    Use the as keyword or <> operator to perform a type assertion.
         `
 }
